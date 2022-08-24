@@ -41,8 +41,8 @@ Estaré publicando las vacantes actuales que manejo, dale un clic [aquí:](https
 <a href="https://instagram.com/tapielid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanortizdt" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">	:notes: Pura música chida...	:notes: </h3>
-<div align="center"> 
+<h3 align="center">	:notes:  Pura música chida... 	:notes: </h3>
+<div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2y61366rmtk4qlcxvdqamc6i3&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2y61366rmtk4qlcxvdqamc6i3&redirect=true)
 </a>
