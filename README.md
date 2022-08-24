@@ -10,7 +10,7 @@ Connect with me:
   
 <a href="https://www.linkedin.com/in/elideth-tapia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jes%c3%bas-andr%c3%a9s-mata-25baa4215/" height="30" width="40" /></a>
   
-<a href="https://discord.com/Elith#4264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8983" height="30" width="40" /></a>
+<a href="https://discord.com/invite/#4264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8983" height="30" width="40" /></a>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elideth-tapia/)
