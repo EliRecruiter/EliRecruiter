@@ -8,7 +8,7 @@
 
 :black_small_square:
 
-Estaré publicando las vacantes actuales que manejo, dale un clic [aquí:](https://github.com/EliRecruiter/Jobs.git)
+Estaré publicando las vacantes actuales que manejo, dale un clic [aquí:](https://github.com/EliRecruiter/Jobs.git/Wiki)
 
 :black_small_square:
 
