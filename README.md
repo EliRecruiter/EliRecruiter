@@ -3,6 +3,8 @@
 
 **Sígueme en mis redes networking, es donde anuncio las actualizaciones de vacantes** :ok_hand:
 
+|  |  
+|-:|
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elideth-tapia/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LosRecruiters)
 
